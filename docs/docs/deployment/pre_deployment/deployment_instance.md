@@ -5,7 +5,7 @@ sidebar_label: Deployment Instance
 ---
 ## Deploying from a Local Machine
 
-Service Workbench can be deployed from any machine, if the appropriate Named Profiles are enabled.  We have seen instances where pre-existing software, especially different versions of Node, have caused problems during the deployment.
+Service Workbench can be  deployed from any machine, if the appropriate Named Profiles are enabled.  We have seen instances where pre-existing software, especially different versions of Node, have caused problems during the deployment.
 
 ## Deploying from an EC2 Instance
 
